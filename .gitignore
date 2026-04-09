@@ -7,6 +7,9 @@ dist/
 # astro
 .astro/
 
+# wrangler local
+.wrangler/
+
 # env files
 .env
 .env.*
