@@ -1,0 +1,31 @@
+{
+  "name": "lienzolabs-web",
+  "version": "1.0.0",
+  "description": "Web corporativa para Lienzolabs — Astro + Tailwind v4 + Cloudflare Pages",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoloPeluzo/lienzolabs-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoloPeluzo/lienzolabs-web/issues"
+  },
+  "homepage": "https://github.com/LoloPeluzo/lienzolabs-web#readme",
+  "dependencies": {
+    "@astrojs/cloudflare": "^13.1.8",
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.1.5",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^5.9.3"
+  }
+}
