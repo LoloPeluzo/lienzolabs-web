@@ -216,6 +216,7 @@ url: "https://ejemplo.com" # opcional
 | `accessibility-specialist` | local | Accesibilidad: WCAG 2.1 AA, ARIA, contraste |
 | `animation-specialist` | local | Animaciones: GSAP, Lenis, CSS animations |
 | `stitch-ui` | local | Diseño UI: Google Stitch, design system, export |
+| `typescript` | Gentleman-Skills (installed) | TypeScript: const types, flat interfaces, never any, type guards |
 | SDD workflow (8 skills) | local | Exploración → Propuesta → Spec → Diseño → Tasks → Implementación → Verificación |
 
 ### MCPs activos

@@ -22,6 +22,7 @@
 | `accessibility-specialist` | WCAG compliance, ARIA, inclusive design | ~/.config/opencode/skills/accessibility-specialist/ |
 | `animation-specialist` | GSAP, Lenis, CSS animations, micro-interactions | ~/.config/opencode/skills/animation-specialist/ |
 | `stitch-ui` | Google Stitch, UI design, screen generation | ~/.config/opencode/skills/stitch-ui/ |
+| `typescript` | TypeScript strict patterns, const types, never any, type guards | ~/.config/opencode/skills/typescript/ (Gentleman-Skills) |
 
 ## SDD Skills (workflow)
 
